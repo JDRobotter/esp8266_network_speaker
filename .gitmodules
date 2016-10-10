@@ -1,0 +1,3 @@
+[submodule "misc/ESP8266_MP3_DECODER"]
+	path = misc/ESP8266_MP3_DECODER
+	url = git@github.com:JDRobotter/ESP8266_MP3_DECODER.git
