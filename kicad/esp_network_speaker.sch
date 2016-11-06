@@ -1228,7 +1228,6 @@ Wire Wire Line
 	1750 6700 1750 7100
 Wire Wire Line
 	1750 7100 1350 7100
-NoConn ~ 9350 4550
 NoConn ~ 9350 4650
 NoConn ~ 9350 4750
 Wire Wire Line
@@ -1269,4 +1268,6 @@ Text Label 1350 7100 0    60   ~ 0
 PROG_TX
 Text Label 7000 1250 0    60   ~ 0
 VBATT
+Text GLabel 9350 4550 2    39   Output ~ 0
+DAC_MUTE
 $EndSCHEMATC
